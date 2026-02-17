@@ -125,7 +125,7 @@ Built to demonstrate proficiency in:
 - RDS encryption configuration
 - Kubernetes secrets encryption
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 **Cloud Platform & Services:**
 - AWS (EC2, VPC, IAM, GuardDuty, CloudTrail, Security Hub, KMS, S3, RDS, EKS)
